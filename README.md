@@ -1,3 +1,5 @@
+<img width="1024" height="768" alt="Image2" src="https://github.com/user-attachments/assets/6d80f20f-4d31-4fc0-9785-6b30f193d9f5" />
+<img width="1024" height="768" alt="Image1" src="https://github.com/user-attachments/assets/38108b88-d14c-478b-814f-0aca7dcc1c54" />
 CALCULATOR MINI-PROJECT
 Source Code
 index.html
